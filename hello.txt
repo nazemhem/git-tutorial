@@ -1,1 +1,1 @@
-hello from feature2
+conflict from feature2?
